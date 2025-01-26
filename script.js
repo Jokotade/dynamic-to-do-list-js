@@ -51,5 +51,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Optionally, invoke addTask on DOMContentLoaded if needed
-    // addTask();
+    giaddTask();
 });
